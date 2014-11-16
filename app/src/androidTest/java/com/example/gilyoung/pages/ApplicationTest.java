@@ -1,4 +1,4 @@
-package com.example.gilyoung.rhytmzig;
+package com.example.gilyoung.pages;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

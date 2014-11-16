@@ -1,9 +1,11 @@
-package com.example.gilyoung.rhytmzig;
+package com.example.pages;
 
 import android.app.Activity;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
+
+import com.example.pages.R;
 
 
 public class Main extends Activity {
@@ -13,7 +15,6 @@ public class Main extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
-
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
